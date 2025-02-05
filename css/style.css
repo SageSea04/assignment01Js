@@ -1,0 +1,41 @@
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 15px;
+}
+
+h1 {
+    font-size: 30px;
+    color: #000000;
+}
+
+h2 {
+    font-size: 25px;
+    color: #000000;
+}
+
+/* Button styling */
+button {
+    margin: 7px;
+    padding: 10px 15px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ffffff;
+}
+
+/* Styling for displayed words */
+p {
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+/* Story display */
+#story {
+    font-size: 20px;
+    margin-top: 15px;
+}
